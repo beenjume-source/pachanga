@@ -1,0 +1,8 @@
+{
+  "name": "Pachanga",
+  "description": "Pachanga - by Benjume VIP Tropa. Fiesta Interactiva con Karaoke de YouTube, DJ Controller, Batería, Guitarra, Trompeta, Acordeón y Piano 3D",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
